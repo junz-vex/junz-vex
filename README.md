@@ -124,7 +124,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=junz-vex&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered&custom_title=Richard's%20GitHub%20Stats&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff&border_color=8B5CF6&ring_color=8B5CF6" alt="Richard's GitHub Stats" />
 
   <!-- Top Languages with Glowing Animation -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crissaunt&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=10&title_color=8B5CF6&text_color=ffffff&border_color=8B5CF6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junz-vext&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=10&title_color=8B5CF6&text_color=ffffff&border_color=8B5CF6" alt="Top Languages" />
 
   <!-- Animated Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=junz-vex&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=8B5CF6&line=8B5CF6&point=ffffff&color=ffffff" width="100%" />
