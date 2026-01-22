@@ -6,7 +6,7 @@
 <!-- Floating Header with Matrix Effect -->
 <div align="center">
   <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&duration=3000&pause=500&color=8B5CF6&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%91%8B+Hello%2C+I'm+Cris;Full-Stack+Developer%F0%9F%92%BB;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Lover+%E2%AD%90;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&duration=3000&pause=500&color=8B5CF6&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%91%8B+Hello%2C+I'm+Richard;Full-Stack+Developer%F0%9F%92%BB;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Lover+%E2%AD%90;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
   </h1>
  
   <!-- Matrix Rain Animation -->
@@ -121,7 +121,7 @@
 <div align="center">
 
   <!-- GitHub Stats with Waving Animation -->
-  <img src="https://github-readme-stats.vercel.app/api?username=crissaunt&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered&custom_title=crissaunt%27s%20GitHub%20Stats&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff&border_color=8B5CF6&ring_color=8B5CF6" alt="crissaunt's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=crissaunt&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered&custom_title=Richard's%20GitHub%20Stats&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff&border_color=8B5CF6&ring_color=8B5CF6" alt="Richard's GitHub Stats" />
 
   <!-- Top Languages with Glowing Animation -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crissaunt&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=10&title_color=8B5CF6&text_color=ffffff&border_color=8B5CF6" alt="Top Languages" />
