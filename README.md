@@ -121,19 +121,19 @@
 <div align="center">
 
   <!-- GitHub Stats with Waving Animation -->
-  <img src="https://github-readme-stats.vercel.app/api?username=crissaunt&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered&custom_title=Richard's%20GitHub%20Stats&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff&border_color=8B5CF6&ring_color=8B5CF6" alt="Richard's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=junz-vex&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered&custom_title=Richard's%20GitHub%20Stats&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff&border_color=8B5CF6&ring_color=8B5CF6" alt="Richard's GitHub Stats" />
 
   <!-- Top Languages with Glowing Animation -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crissaunt&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=10&title_color=8B5CF6&text_color=ffffff&border_color=8B5CF6" alt="Top Languages" />
 
   <!-- Animated Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crissaunt&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=8B5CF6&line=8B5CF6&point=ffffff&color=ffffff" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=junz-vex&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=8B5CF6&line=8B5CF6&point=ffffff&color=ffffff" width="100%" />
 
   <!-- Streak Stats with Fire Animation -->
-  <img src="https://streak-stats.demolab.com?user=crissaunt&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=junz-vex&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak Stats" />
 
   <!-- Trophy Case with Rotating Animation -->
-  <img src="https://github-profile-trophy.vercel.app/?username=crissaunt&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&row=1" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=junz-vex&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&row=1" alt="Trophy" />
 
 </div>
 
