@@ -307,9 +307,7 @@
   <!-- Floating Code Animation -->
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" />
  
-  <!-- Starry Night Animation -->
-  <br>
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%" />
+
  
   <!-- Final Animation -->
   <div style="margin-top: 20px;">
