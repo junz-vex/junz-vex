@@ -6,7 +6,7 @@
 <!-- Floating Header with Matrix Effect -->
 <div align="center">
   <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&duration=3000&pause=500&color=8B5CF6&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%91%8B+Hello%2C+I'm+Richard;Full-Stack+Developer%F0%9F%92%BB;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Lover+%E2%AD%90;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&duration=3000&pause=500&color=8B5CF6&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%91%8B+Hello%2C+I'm+Richard;A+Beginner+Developer%F0%9F%92%BB;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Lover+%E2%AD%90;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
   </h1>
  
   <!-- Matrix Rain Animation -->
